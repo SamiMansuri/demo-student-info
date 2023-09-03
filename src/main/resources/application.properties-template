@@ -1,6 +1,6 @@
 spring.datasource.url=jdbc:postgresql://127.0.0.1:5432/student
-spring.datasource.username=postgres
-spring.datasource.password=sami30
+spring.datasource.username=YOUR_DB_USERNAME
+spring.datasource.password=YOUR_DB_PASSWORD
 spring.datasource.driver-class-name=org.postgresql.Driver
 spring.jpa.hibernate.ddl-auto=create-drop
 spring.jpa.show-sql=true
